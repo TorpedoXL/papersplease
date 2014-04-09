@@ -638,17 +638,15 @@ $tokens tokens, apartment $apt"
 "text:stamp_denied","DENIED","REDDEDiLDi"
 "text:stamp_reason","REASON","SEBEP"
 "text:booth_dragdocs","DRAG DOCUMENTS HERE","EVRAKLARI BURAYA BIRAKIN"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","ÇELiŞKiLERi SAPTA"
 "text:booth_discrepancy","DISCREPANCY
 DETECTED","ÇELiŞi
 SAPTANDI"
 "text:booth_interrogate","INTERROGATE","SORGULA"
 "text:booth_matching","MATCHING
-DATA","BiLGiLER
-KONTROL EDiLiYOR"
+DATA","BiLGiLER UYUŞUYOR"
 "text:booth_nocorrelation","NO
-CORRELATION","SIKINTI
-YOK"
+CORRELATION","iLiŞKi YOK"
 "text:booth_cleared","DISCREPANCY
 CLEARED","ÇELiŞKi
 DÜZELTiLDi"
