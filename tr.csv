@@ -472,7 +472,7 @@
 "text:language_author","Author","ÇEViREN TORPEDO_XL"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","Lucas Pope tarafndan yapildi"
-"text:papers_please","Papers, please.","Papers, please."
+"text:papers_please","Papers, please.","Evraklar, Lütfen."
 "text:protocol_violated","Protocol Violated.","Protokol ihlali."
 "text:unauth_confiscation","Unauthorized passport confiscation","Eşleştirilmemiş pasaport çelişkisi"
 "text:missing_reason","Denial reason not given","Red sebebi belirtilmedi"
@@ -487,49 +487,49 @@
 "text:border_announce2","ARSTOTZKA WELCOMES YOU","ARSTOTZKA SiZi SELAMLIYOR"
 "text:border_guardout","OUT!","DIŞARI!"
 "text:border_elisa","ELISA!","ELISA!!"
-"text:family_son_budget","SON","ÇOCUK"
-"text:family_wife_budget","WIFE","EŞ"
-"text:family_niece_budget","NIECE","YEĞEN"
-"text:family_uncle_budget","UNCLE","AMCA"
-"text:family_mil_budget","MIL","ÜVEY ANNE"
-"text:family_son_status","Son","Çocuk"
-"text:family_wife_status","Wife","Eş"
-"text:family_niece_status","Niece","Yeğen"
-"text:family_uncle_status","Uncle","Amca"
-"text:family_mil_status","Mother-in-law","Üvey-Anne"
-"text:family_son_message","son","çocuk"
-"text:family_wife_message","wife","eş"
-"text:family_niece_message","niece","yeğen"
-"text:family_uncle_message","uncle","amca"
-"text:family_mil_message","mother-in-law","üvey-anne"
+"text:family_son_budget","SON","ÇOCUĞUN"
+"text:family_wife_budget","WIFE","EŞİN"
+"text:family_niece_budget","NIECE","YEĞENİN"
+"text:family_uncle_budget","UNCLE","AMCAN"
+"text:family_mil_budget","MIL","ÜVEY ANNEN"
+"text:family_son_status","Son","Çocuğun"
+"text:family_wife_status","Wife","Eşin"
+"text:family_niece_status","Niece","Yeğenin"
+"text:family_uncle_status","Uncle","Amcan"
+"text:family_mil_status","Mother-in-law","Üvey Annen"
+"text:family_son_message","son","çocuğun"
+"text:family_wife_message","wife","eşin"
+"text:family_niece_message","niece","yeğenin"
+"text:family_uncle_message","uncle","amcan"
+"text:family_mil_message","mother-in-law","üvey annen"
 "text:night_endof","END OF","Bitişi"
 "text:night_day","DAY $0","GÜN $0"
 "text:family_verysick_1","Your $0 will die without medicine.","Senin $0 ilaç almadiği için ölecek."
 "text:family_verysick_many","Very sick family members will die without medicine.","Çok hasta olan aile üyeleri ilaç almazsa ölecek."
 "text:family_sick_1","Your $0 is sick and needs medicine.","Senin $0 hasta ve ilaca ihtiyaci var."
 "text:family_sick_many","Your family needs medicine.","Ailenin ilaca ihtiyaci var."
-"text:family_died_1","Your $0 has died.","Your $0 has died."
-"text:family_died_2","Your $0 and $1 have died.","Your $0 and $1 have died."
-"text:family_died_3","Your $0, $1, and $2 have died.","Your $0, $1, and $2 have died."
-"text:family_died_4","Your $0, $1, $2, and $3 have died.","Your $0, $1, $2, and $3 have died."
-"text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","Your $0, $1, $2, $3, and $4 have died."
-"text:family_escape_with_0","You leave behind everything.","You leave behind everything."
-"text:family_escape_with_1","You gather your $0 to leave for Obristan.","You gather your $0 to leave for Obristan."
-"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","You gather your $0 and $1 to leave for Obristan."
-"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","You gather your $0, $1, and $2 to leave for Obristan."
-"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","You gather your $0, $1, $2, and $3 to leave for Obristan."
-"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","You gather your $0, $1, $2, $3, and $4 to leave for Obristan."
+"text:family_died_1","Your $0 has died.","$0 öldü."
+"text:family_died_2","Your $0 and $1 have died.","$0 ve $1 öldü."
+"text:family_died_3","Your $0, $1, and $2 have died.","$0, $1, ve $2 öldü."
+"text:family_died_4","Your $0, $1, $2, and $3 have died.","$0, $1, $2, ve $3 öldü."
+"text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","$0, $1, $2, $3, ve $4 öldü."
+"text:family_escape_with_0","You leave behind everything.","Herşeyi arkanda birakiyorsun."
+"text:family_escape_with_1","You gather your $0 to leave for Obristan.","Obristan' i terketmek için yanına $0 aldın."
+"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","Obristan' i terketmek için yanına $0 ve $1 aldın."
+"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","Obristan' i terketmek için yanına $0, $1, ve $2 aldin"
+"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","Obristan' i terketmek için yanına $0, $1, $2, ve $3 aldin."
+"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","Obristan' i terketmek için yanına $0, $1, $2, $3, ve $4 aldin."
 "text:family_escape_without_1","Your $0 prepares to return to Nirsk.","Your $0 prepares to return to Nirsk."
 "text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","Your $0 and $1 prepare to return to Nirsk."
 "text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","Your $0, $1, and $2 prepare to return to Nirsk."
 "text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","Your $0, $1, $2, and $3 prepare to return to Nirsk."
 "text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk."
 "text:family_flee_final_0","Obristan Above All","Obristan Above All"
-"text:family_flee_final_1","The safety of your $0 is unknown.","The safety of your $0 is unknown."
-"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","The safety of your $0 and $1 is unknown."
-"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","The safety of your $0, $1, and $2 is unknown."
-"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 is unknown."
-"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0, $1, $2, $3, and $4 is unknown."
+"text:family_flee_final_1","The safety of your $0 is unknown.","$0 durumu bilinmiyor."
+"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","$0 ve $1 durumu bilinmiyor."
+"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","$0, $1, ve $2 durumu bilinmiyor"
+"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 durumu bilinmiyor"
+"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","$0, $1, $2, $3, ve $4 durumu bilinmiyor."
 "text:budget_savings","SAVINGS","BİRİKİM"
 "text:budget_salary","SALARY ($0)","MAAŞ ($0)"
 "text:budget_penalties","PENALTIES ($0)","CEZALAR ($0)"
@@ -572,30 +572,30 @@ $denied denied
 $detained detained
 $citations citations earned
 $stamps stamps applied
-Ending $endnum of $endtotal","Played for $time
+Ending $endnum of $endtotal","$time zamandır oynuyorsun.
 $processed travelers processed
-$approved approved
-$denied denied
-$detained detained
+$approved onaylandı
+$denied reddedildi
+$detained tutuklandı
 $citations citations earned
-$stamps stamps applied
-Ending $endnum of $endtotal"
+$stamps damga uygulandı
+$endtotal bitişten $endnum kadarı yapıldı."
 "text:steam_noinit","STEAM CONNECTION FAILED
 
-If this problem persists, re-install the Steam client.","STEAM CONNECTION FAILED
+If this problem persists, re-install the Steam client.","STEAM BAĞLANTISI YAPILAMADI
 
-If this problem persists, re-install the Steam client."
+Sorunun devam etmesi halinde steam client ı tekrardan yükleyiniz."
 "text:steam_restartfailed","STEAM RESTART FAILED
 
-If this problem persists, re-install the Steam client.","STEAM RESTART FAILED
+If this problem persists, re-install the Steam client.","STEAM YENIDEN BAŞLATILAMADI
 
-If this problem persists, re-install the Steam client."
+Sorunun devam etmesi halinde steam client ı tekrardan yükleyiniz."
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
 The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
 
 The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
+"text:steam_restart","RESTART","YENİDEN BAŞLAT"
 "text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
@@ -653,7 +653,7 @@ DÜZELTiLDi"
 "text:env_clearforentry","Applicant clear for entry","Başvuru sahibi giriş için temiz."
 "text:env_lettermale","M","E"
 "text:env_letterfemale","F","K"
-"text:env_noalias","No known alias","No known alias"
+"text:env_noalias","No known alias","Bilinen diğer adı yok."
 "text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
 "text:endless_complete","$style
 $course
@@ -768,13 +768,13 @@ Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Welcome to your new position at Grestin Border Checkpoint.
+Deny all foreigners.","Gretin Sınır Kapısındaki yeni pozisyonun hayırlı olsun.
 
-Stamp passport ENTRY VISA and return documents to entrant.
+Pasaporttaki Vize bölmesini damgaladıktan sonra evrakları başvuru sahibine geri teslim et.
 
-Entry is restricted to Arstotzkan citizens only.
+Giriş sadece Arstotka vatandaşları içindir.
 
-Deny all foreigners."
+Tüm yabancıları reddet."
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
 
 Your booth's INSPECTION hardware is now installed.
@@ -1784,14 +1784,14 @@ HOLD YOUR FIRE
 "traveler:EZIC_AGENT_EXT","The others do not agree, but I believe the man in red is not a threat.","The others do not agree, but I believe the man in red is not a threat."
 "traveler:EZIC_AGENT_EXT","@What?","@What?"
 "traveler:EZIC_AGENT_EXT","Nevermind.","Nevermind."
-"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","Shoot to kill."
-"traveler:EZIC_DIPLO","I require my passport.","I require my passport."
-"traveler:EZIC_DIPLO","@It has been confiscated.","@It has been confiscated."
-"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","I am Kolechian diplomat here on government request."
-"traveler:EZIC_DIPLO","Return passport at once.","Return passport at once."
-"traveler:EZIC_DIPLO","@Call number on slip to recover.","@Call number on slip to recover."
-"traveler:EZIC_DIPLO","Barbarian.","Barbarian."
-"traveler:EZIC_DIPLO","You cannot do this.","You cannot do this."
+"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","Öldürmek için vur."
+"traveler:EZIC_DIPLO","I require my passport.","Pasaportumu istiyorum."
+"traveler:EZIC_DIPLO","@It has been confiscated.","@Maalesef el konuldu."
+"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","Ben hükümetin çağırması ile gelen br Kolechia diplomatıyım."
+"traveler:EZIC_DIPLO","Return passport at once.","Pasaportumu verin."
+"traveler:EZIC_DIPLO","@Call number on slip to recover.","@Fişteki bumarayı alıp yeni pasaport talebinde bulunun."
+"traveler:EZIC_DIPLO","Barbarian.","Seni Barbar."
+"traveler:EZIC_DIPLO","You cannot do this.","Bunu yapamazsınız."
 "traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","I saw him enter."
 "traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","Give his passport to me."
 "traveler:EZIC_DIPLO_FOLLOW","Ah good.","Ah good."
@@ -1828,11 +1828,11 @@ HOLD YOUR FIRE
 "traveler:SECRET_POLICE_INTRO","I think it is best if you come with me.","I think it is best if you come with me."
 "traveler:SECRET_POLICE_INTRO","This group is very dangerous.","This group is very dangerous."
 "traveler:SECRET_POLICE_INTRO","If you see any curious thing, report immediately.","If you see any curious thing, report immediately."
-"traveler:SECRET_POLICE_CAUGHT","Hello inspector.","Hello inspector."
+"traveler:SECRET_POLICE_CAUGHT","Hello inspector.","Merhaba müfettiş."
 "traveler:SECRET_POLICE_CAUGHT","There is small discrepancy with your finances.","There is small discrepancy with your finances."
 "traveler:SECRET_POLICE_CAUGHT","The Ministry of Income was thoughtful enough to notify us.","The Ministry of Income was thoughtful enough to notify us."
 "traveler:SECRET_POLICE_CAUGHT","It is best if you come with me.","It is best if you come with me."
-"traveler:SECRET_POLICE_FINAL","Inspector.","Inspector."
+"traveler:SECRET_POLICE_FINAL","Inspector.","Müfettiş."
 "traveler:SECRET_POLICE_FINAL","It has been some time.","It has been some time."
 "traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","Read your bulletin carefully today."
 "traveler:SECRET_POLICE_FINAL","We will be speaking with many workers.","We will be speaking with many workers."
